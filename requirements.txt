@@ -1,4 +1,5 @@
 jupyter
 notebook
 ipyvizzu
+ipyvizzu-story
 streamlit
